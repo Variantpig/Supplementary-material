@@ -1,1 +1,2 @@
 This repository contains the code used in my research project.
+The raw survey data are not included in this repository due to file size and data access restrictions. The repository contains the code used for data preprocessing, model fitting, and result generation.
