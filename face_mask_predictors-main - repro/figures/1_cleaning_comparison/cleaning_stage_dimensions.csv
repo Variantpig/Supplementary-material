@@ -1,0 +1,11 @@
+stage,rows,columns
+Raw data,53833,513
+After removing high-missing variables,53833,53
+After filling medical missing values,53833,53
+After complete-case removal,41125,53
+After creating behaviour outcomes,41125,58
+After combining comorbidities,41125,44
+After creating week number,41125,45
+After household conversion,41125,45
+After removing induced missing rows,40136,45
+Final cleaned data,40136,26

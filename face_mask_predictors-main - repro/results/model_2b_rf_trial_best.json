@@ -1,0 +1,12 @@
+{
+  "number": 85,
+  "value": 0.8353,
+  "params": {
+    "max_depth": 21,
+    "min_node_size": 25,
+    "max_features_mode": "sqrt"
+  },
+  "user_attrs": {
+    "std_err": 0.0025
+  }
+}

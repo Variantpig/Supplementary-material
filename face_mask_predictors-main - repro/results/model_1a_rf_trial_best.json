@@ -1,0 +1,12 @@
+{
+  "number": 17,
+  "value": 0.8496,
+  "params": {
+    "max_depth": 30,
+    "min_node_size": 7,
+    "max_features_mode": "log2"
+  },
+  "user_attrs": {
+    "std_err": 0.0028
+  }
+}

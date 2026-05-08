@@ -1,0 +1,8 @@
+parameter,importance
+learning_rate,3.154266774822229e-4
+subsample,1.6676625290034096e-4
+max_depth,1.3342546763897789e-5
+reg_lambda,-3.6597872962966794e-6
+gamma,-7.274656000792911e-6
+min_child_weight,-1.6149975076739543e-5
+colsample_bytree,-1.721892713099227e-5

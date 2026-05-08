@@ -1,0 +1,12 @@
+{
+  "number": 40,
+  "value": 0.2376,
+  "params": {
+    "tree_depth": 12,
+    "min_n": 8,
+    "cost_complexity": 0.0002
+  },
+  "user_attrs": {
+    "std_err": 0.0039
+  }
+}

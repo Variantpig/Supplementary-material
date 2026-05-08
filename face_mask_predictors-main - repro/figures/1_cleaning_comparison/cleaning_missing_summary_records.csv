@@ -1,0 +1,936 @@
+variable_name,missing_count,missing_percentage,stage
+RecordNo,0,0,Raw data
+endtime,0,0,Raw data
+qweek,0,0,Raw data
+i1_health,22927,42.59,Raw data
+i2_health,2002,3.72,Raw data
+i7a_health,17901,33.25,Raw data
+i3_health,30113,55.94,Raw data
+i4_health,30293,56.27,Raw data
+i5_health_1,22130,41.11,Raw data
+i5_health_2,22130,41.11,Raw data
+i5_health_3,22130,41.11,Raw data
+i5_health_4,22130,41.11,Raw data
+i5_health_5,22130,41.11,Raw data
+i5_health_99,22130,41.11,Raw data
+i5a_health,51841,96.3,Raw data
+i6_health,50486,93.78,Raw data
+i7b_health,51934,96.47,Raw data
+i8_health,52531,97.58,Raw data
+i9_health,1001,1.86,Raw data
+i10_health,18902,35.11,Raw data
+i11_health,1001,1.86,Raw data
+i12_health_1,0,0,Raw data
+i12_health_2,1006,1.87,Raw data
+i12_health_3,0,0,Raw data
+i12_health_4,0,0,Raw data
+i12_health_5,0,0,Raw data
+i12_health_6,0,0,Raw data
+i12_health_7,0,0,Raw data
+i12_health_8,0,0,Raw data
+i12_health_9,22968,42.67,Raw data
+i12_health_10,39129,72.69,Raw data
+i12_health_11,1006,1.87,Raw data
+i12_health_12,0,0,Raw data
+i12_health_13,0,0,Raw data
+i12_health_14,0,0,Raw data
+i12_health_15,0,0,Raw data
+i12_health_16,0,0,Raw data
+i12_health_17,32756,60.85,Raw data
+i12_health_18,32756,60.85,Raw data
+i12_health_19,32756,60.85,Raw data
+i12_health_20,32756,60.85,Raw data
+i13_health,17901,33.25,Raw data
+i14_health_1,22968,42.67,Raw data
+i14_health_2,22968,42.67,Raw data
+i14_health_3,22968,42.67,Raw data
+i14_health_4,22968,42.67,Raw data
+i14_health_5,22968,42.67,Raw data
+i14_health_6,22968,42.67,Raw data
+i14_health_7,22968,42.67,Raw data
+i14_health_8,22968,42.67,Raw data
+i14_health_9,22968,42.67,Raw data
+i14_health_10,22968,42.67,Raw data
+i14_health_96,22968,42.67,Raw data
+i14_health_98,22968,42.67,Raw data
+i14_health_99,22968,42.67,Raw data
+i14_health_other,48399,89.91,Raw data
+d1_health_1,9007,16.73,Raw data
+d1_health_2,9007,16.73,Raw data
+d1_health_3,9007,16.73,Raw data
+d1_health_4,9007,16.73,Raw data
+d1_health_5,9007,16.73,Raw data
+d1_health_6,9007,16.73,Raw data
+d1_health_7,9007,16.73,Raw data
+d1_health_8,9007,16.73,Raw data
+d1_health_9,9007,16.73,Raw data
+d1_health_10,9007,16.73,Raw data
+d1_health_11,9007,16.73,Raw data
+d1_health_12,9007,16.73,Raw data
+d1_health_13,9007,16.73,Raw data
+d1_health_98,9007,16.73,Raw data
+d1_health_99,9007,16.73,Raw data
+weight,0,0,Raw data
+age,0,0,Raw data
+gender,0,0,Raw data
+state,0,0,Raw data
+household_size,0,0,Raw data
+employment_status,0,0,Raw data
+WCRex2,2981,5.54,Raw data
+WCRV_4,40745,75.69,Raw data
+CORE_B2_4,42755,79.42,Raw data
+cantril_ladder,3985,7.4,Raw data
+PHQ4_1,10752,19.97,Raw data
+PHQ4_2,10781,20.03,Raw data
+PHQ4_3,10756,19.98,Raw data
+PHQ4_4,10761,19.99,Raw data
+m1_1,52825,98.13,Raw data
+m1_2,52825,98.13,Raw data
+m1_3,52825,98.13,Raw data
+m1_4,52825,98.13,Raw data
+m2,49805,92.52,Raw data
+m3,49990,92.86,Raw data
+m4_1,52737,97.96,Raw data
+m4_2,52737,97.96,Raw data
+m4_3,52737,97.96,Raw data
+m4_4,52737,97.96,Raw data
+m4_96,52737,97.96,Raw data
+m4_99,52737,97.96,Raw data
+m4_other,53804,99.95,Raw data
+m5_1,53833,100,Raw data
+m5_2,53691,99.74,Raw data
+m6_1,53833,100,Raw data
+m6_2,53833,100,Raw data
+m6_3,53833,100,Raw data
+m6_4,53833,100,Raw data
+m6_5,53833,100,Raw data
+m6_6,53833,100,Raw data
+m6_7,53833,100,Raw data
+m6_8,53833,100,Raw data
+m6_96,53833,100,Raw data
+m6_other,53833,100,Raw data
+m7_1,52737,97.96,Raw data
+m7_2,52737,97.96,Raw data
+m7_3,52737,97.96,Raw data
+m7_4,52737,97.96,Raw data
+m7_5,52737,97.96,Raw data
+m7_6,52737,97.96,Raw data
+m7_8,52737,97.96,Raw data
+m7_9,52737,97.96,Raw data
+m7_10,52737,97.96,Raw data
+m7_11,52737,97.96,Raw data
+m8_1,53584,99.54,Raw data
+m8_2,53584,99.54,Raw data
+m8_3,53584,99.54,Raw data
+m8_4,53584,99.54,Raw data
+m8_5,53584,99.54,Raw data
+m8_6,53584,99.54,Raw data
+m8_7,53584,99.54,Raw data
+m8_8,53584,99.54,Raw data
+m8_96,53584,99.54,Raw data
+m8_99,53584,99.54,Raw data
+m8_other,53833,100,Raw data
+m9_1,53584,99.54,Raw data
+m9_2,53584,99.54,Raw data
+m9_3,53584,99.54,Raw data
+m9_4,53584,99.54,Raw data
+m9_5,53584,99.54,Raw data
+m9_6,53584,99.54,Raw data
+m9_7,53584,99.54,Raw data
+m10,52870,98.21,Raw data
+m11,52870,98.21,Raw data
+m12_1,53074,98.59,Raw data
+m12_2,53074,98.59,Raw data
+m12_3,53074,98.59,Raw data
+m12_4,53074,98.59,Raw data
+m12_5,53074,98.59,Raw data
+m12_6,53074,98.59,Raw data
+m12_7,53074,98.59,Raw data
+m12_8,53074,98.59,Raw data
+m12_96,53074,98.59,Raw data
+m12_99,53074,98.59,Raw data
+m12_other,53833,100,Raw data
+m13_1,53074,98.59,Raw data
+m13_2,53074,98.59,Raw data
+m13_3,53074,98.59,Raw data
+m13_4,53074,98.59,Raw data
+m13_5,53074,98.59,Raw data
+m13_6,53074,98.59,Raw data
+m13_8,53074,98.59,Raw data
+m13_9,53074,98.59,Raw data
+m13_10,53074,98.59,Raw data
+m13_11,53074,98.59,Raw data
+v1,51826,96.27,Raw data
+v2_1,53573,99.52,Raw data
+v2_2,53573,99.52,Raw data
+v2_3,53573,99.52,Raw data
+v2_4,53573,99.52,Raw data
+v2_5,53573,99.52,Raw data
+v2_99,53573,99.52,Raw data
+v3,53693,99.74,Raw data
+v3_open,53833,100,Raw data
+v4_1,50824,94.41,Raw data
+v4_2,50824,94.41,Raw data
+v4_3,50824,94.41,Raw data
+v4_4,50824,94.41,Raw data
+v4_5,50824,94.41,Raw data
+v4_96,51826,96.27,Raw data
+v4_99,51826,96.27,Raw data
+v3_other,53776,99.89,Raw data
+WCRex1,7014,13.03,Raw data
+i12_health_21,41779,77.61,Raw data
+i12_health_22,9023,16.76,Raw data
+i12_health_23,10029,18.63,Raw data
+i12_health_24,27884,51.8,Raw data
+i12_health_25,9023,16.76,Raw data
+r1_1,9023,16.76,Raw data
+r1_2,9023,16.76,Raw data
+r1_3,38851,72.17,Raw data
+r1_4,38851,72.17,Raw data
+r1_5,38851,72.17,Raw data
+r1_6,20894,38.81,Raw data
+r1_7,20894,38.81,Raw data
+m7_other,53122,98.68,Raw data
+m14_1,51781,96.19,Raw data
+m14_2,51781,96.19,Raw data
+m14_3,51781,96.19,Raw data
+m14_4,51781,96.19,Raw data
+m14_5,51781,96.19,Raw data
+m14_6,51781,96.19,Raw data
+m14_7,51781,96.19,Raw data
+m14_8,51781,96.19,Raw data
+m14_9,51781,96.19,Raw data
+m14_10,51781,96.19,Raw data
+m14_11,51781,96.19,Raw data
+m14_96,51781,96.19,Raw data
+m14_99,51781,96.19,Raw data
+m14_open,53235,98.89,Raw data
+i14_health_11,29576,54.94,Raw data
+ct1_1,52830,98.14,Raw data
+ct1_2,52830,98.14,Raw data
+ct1b_1,52855,98.18,Raw data
+ct1b_2,52855,98.18,Raw data
+ct1b_3,52855,98.18,Raw data
+ct1b_4,52855,98.18,Raw data
+ct1b_5,52855,98.18,Raw data
+ct1b_6,52855,98.18,Raw data
+ct1b_7,52855,98.18,Raw data
+ct1b_8,52855,98.18,Raw data
+ct1b_9,52855,98.18,Raw data
+ct1b_10,52855,98.18,Raw data
+ct1b_11,52855,98.18,Raw data
+ct1b_96,52855,98.18,Raw data
+ct1b_99,52855,98.18,Raw data
+ct1b_other,53833,100,Raw data
+ct2,52830,98.14,Raw data
+ct3,53694,99.74,Raw data
+ct3_other,53822,99.98,Raw data
+ct4,52830,98.14,Raw data
+ct5_1,53717,99.78,Raw data
+ct5_2,53717,99.78,Raw data
+ct5_3,53717,99.78,Raw data
+ct5_4,53717,99.78,Raw data
+ct5_5,53717,99.78,Raw data
+ct5_6,53717,99.78,Raw data
+ct5_7,53717,99.78,Raw data
+ct5_8,53717,99.78,Raw data
+ct5_96,53717,99.78,Raw data
+ct5_99,53717,99.78,Raw data
+ct5_other,53833,100,Raw data
+ct6_1,52830,98.14,Raw data
+ct6_2,52830,98.14,Raw data
+ct6_3,52830,98.14,Raw data
+ct6_4,52830,98.14,Raw data
+ct6_5,52830,98.14,Raw data
+ct6_6,52830,98.14,Raw data
+ct6_96,52830,98.14,Raw data
+ct6_99,52830,98.14,Raw data
+ct6_other,53807,99.95,Raw data
+ct7_1,52830,98.14,Raw data
+ct7_2,52830,98.14,Raw data
+ct7_3,52830,98.14,Raw data
+ct8_1,52830,98.14,Raw data
+ct8_2,52830,98.14,Raw data
+ct8_3,52830,98.14,Raw data
+ct8_4,52830,98.14,Raw data
+ct8_5,52830,98.14,Raw data
+ct8_6,52830,98.14,Raw data
+ct8_99,52830,98.14,Raw data
+i12_health_26,14059,26.12,Raw data
+ox1_1,52824,98.13,Raw data
+ox1_2,52824,98.13,Raw data
+ox3_1,52824,98.13,Raw data
+ox3_2,52824,98.13,Raw data
+ox3_3,52824,98.13,Raw data
+ox3_4,52824,98.13,Raw data
+ox3_5,52824,98.13,Raw data
+ox3_6,52824,98.13,Raw data
+ox5_1,52824,98.13,Raw data
+ox5_2,52824,98.13,Raw data
+ox6,52824,98.13,Raw data
+ox4_1_1,53110,98.66,Raw data
+ox4_2_1,53090,98.62,Raw data
+ox4_3_1,53115,98.67,Raw data
+ox4_4_1,53112,98.66,Raw data
+ox4_5_1,53114,98.66,Raw data
+ox4_6_1,53109,98.66,Raw data
+ox4_7_1,53120,98.68,Raw data
+ox4_8_1,53126,98.69,Raw data
+ox4_9_1,53127,98.69,Raw data
+ox4_10_1,53123,98.68,Raw data
+ox4_11_1,53137,98.71,Raw data
+w1,47806,88.8,Raw data
+w2,47806,88.8,Raw data
+w3,47806,88.8,Raw data
+w4_1,52843,98.16,Raw data
+w4_2,52843,98.16,Raw data
+w4_3,52843,98.16,Raw data
+w4_4,52843,98.16,Raw data
+w4_5,52843,98.16,Raw data
+w4_6,52843,98.16,Raw data
+w4_7,52843,98.16,Raw data
+w4_8,52843,98.16,Raw data
+w4_9,52843,98.16,Raw data
+w4_10,52843,98.16,Raw data
+w4_11,52843,98.16,Raw data
+w4_99,52843,98.16,Raw data
+w4b,53410,99.21,Raw data
+w5_1,53654,99.67,Raw data
+w5_2,53654,99.67,Raw data
+w5_3,53654,99.67,Raw data
+w5_4,53654,99.67,Raw data
+w5_5,53654,99.67,Raw data
+w5_6,53654,99.67,Raw data
+w5_7,53654,99.67,Raw data
+w5_8,53654,99.67,Raw data
+w5_9,53654,99.67,Raw data
+w5_10,53654,99.67,Raw data
+w5_11,53654,99.67,Raw data
+w5_12,53654,99.67,Raw data
+w5_13,53654,99.67,Raw data
+w5_14,53654,99.67,Raw data
+w5_15,53654,99.67,Raw data
+w5_16,53654,99.67,Raw data
+w5_96,53654,99.67,Raw data
+w5_99,53654,99.67,Raw data
+w6,52832,98.14,Raw data
+w7,52848,98.17,Raw data
+w9_1,52832,98.14,Raw data
+w9_2,52832,98.14,Raw data
+w9_3,52832,98.14,Raw data
+w9_4,52832,98.14,Raw data
+w9_5,52832,98.14,Raw data
+disability,52832,98.14,Raw data
+work1,53299,99.01,Raw data
+work2,53053,98.55,Raw data
+work3,53053,98.55,Raw data
+work4,53299,99.01,Raw data
+work5,53548,99.47,Raw data
+work6,53299,99.01,Raw data
+work7_1,53622,99.61,Raw data
+work7_2,53622,99.61,Raw data
+work7_3,53622,99.61,Raw data
+work7_4,53622,99.61,Raw data
+work7_5,53622,99.61,Raw data
+work8,53622,99.61,Raw data
+i12_health_27,18075,33.58,Raw data
+i12_health_28,18075,33.58,Raw data
+i12_health_29,18075,33.58,Raw data
+Soc1_1,21084,39.17,Raw data
+Soc1_2,21084,39.17,Raw data
+Soc1_3,21084,39.17,Raw data
+Soc2_1,44315,82.32,Raw data
+Soc2_2,44315,82.32,Raw data
+Soc2_3,44315,82.32,Raw data
+Soc2_4,44315,82.32,Raw data
+Soc2_5,44315,82.32,Raw data
+Soc2_6,44315,82.32,Raw data
+Soc2_open,52584,97.68,Raw data
+vac_1,36226,67.29,Raw data
+vac_2,51830,96.28,Raw data
+vac2_1,19074,35.43,Raw data
+vac2_2,19074,35.43,Raw data
+vac2_3,19074,35.43,Raw data
+vac2_4,51830,96.28,Raw data
+vac2_5,51830,96.28,Raw data
+vac2_6,37290,69.27,Raw data
+vac_3,44601,82.85,Raw data
+vac3_1,47125,87.54,Raw data
+vac3_2,47125,87.54,Raw data
+vac3_3,47125,87.54,Raw data
+vac3_4,47125,87.54,Raw data
+vac3_5,47125,87.54,Raw data
+vac3_6,47125,87.54,Raw data
+vac3_7,47125,87.54,Raw data
+vac3_8,47125,87.54,Raw data
+vac3_9,47125,87.54,Raw data
+vac3_other,53322,99.05,Raw data
+vac4,52909,98.28,Raw data
+vac5,47125,87.54,Raw data
+vac6,52909,98.28,Raw data
+vac7,21077,39.15,Raw data
+vac8,42477,78.91,Raw data
+av1_1,50818,94.4,Raw data
+av1_2,50818,94.4,Raw data
+av1_3,50818,94.4,Raw data
+av1_99,50818,94.4,Raw data
+av2,51829,96.28,Raw data
+r1_8,24005,44.59,Raw data
+r1_9,24005,44.59,Raw data
+r1_10,46932,87.18,Raw data
+vac2_7,24005,44.59,Raw data
+av3,50053,92.98,Raw data
+vac,25016,46.47,Raw data
+vac9,50106,93.08,Raw data
+vac10_1,45223,84.01,Raw data
+vac10_2,45223,84.01,Raw data
+vac10_3,45223,84.01,Raw data
+vac10_4,45223,84.01,Raw data
+vac10_5,45223,84.01,Raw data
+vac10_99,45223,84.01,Raw data
+vac11,46123,85.68,Raw data
+travel1_1,29852,55.45,Raw data
+travel1_2,29852,55.45,Raw data
+travel1_3,29852,55.45,Raw data
+travel1_4,29852,55.45,Raw data
+travel1_99,29852,55.45,Raw data
+vac12_1,44937,83.47,Raw data
+vac12_2,44937,83.47,Raw data
+vac12_3,44937,83.47,Raw data
+vac12_4,44937,83.47,Raw data
+vac12_11,44937,83.47,Raw data
+vac12_5,44937,83.47,Raw data
+vac12_6,44937,83.47,Raw data
+vac12_7,44937,83.47,Raw data
+vac12_8,44937,83.47,Raw data
+vac12_9,44937,83.47,Raw data
+vac12_10,44937,83.47,Raw data
+vac12_96,44937,83.47,Raw data
+vac12_other,52775,98.03,Raw data
+vac13,53064,98.57,Raw data
+vac10_8,48887,90.81,Raw data
+vac_booster,38741,71.97,Raw data
+vac12_12,48244,89.62,Raw data
+vac12_13,48244,89.62,Raw data
+vac14_1,52150,96.87,Raw data
+vac14_2,52150,96.87,Raw data
+vac14_3,52150,96.87,Raw data
+child_age_1,48779,90.61,Raw data
+child_age_2,48779,90.61,Raw data
+child_age_3,48779,90.61,Raw data
+child_age_4,48779,90.61,Raw data
+child_age_5,48779,90.61,Raw data
+child_education_1,53592,99.55,Raw data
+child_education_2,53592,99.55,Raw data
+child_education_3,53592,99.55,Raw data
+child_education_4,53592,99.55,Raw data
+childvac,52335,97.22,Raw data
+combi_vac,46796,86.93,Raw data
+household_children,38941,72.34,Raw data
+Vent_1,46799,86.93,Raw data
+Vent_2,52827,98.13,Raw data
+Vent_3,40956,76.08,Raw data
+WAH_1,52094,96.77,Raw data
+WAH_2,52094,96.77,Raw data
+WAH_3,52094,96.77,Raw data
+WAH4,52827,98.13,Raw data
+WAH5,53173,98.77,Raw data
+WAH7_1,53636,99.63,Raw data
+WAH7_2,53636,99.63,Raw data
+WAH7_3,53636,99.63,Raw data
+WAH7_4,53636,99.63,Raw data
+WAH7_5,53636,99.63,Raw data
+WAH7_6,53636,99.63,Raw data
+WAH7_7,53636,99.63,Raw data
+WAH7_99,53636,99.63,Raw data
+WAH6,53606,99.58,Raw data
+V1_1,52831,98.14,Raw data
+V1_2,52831,98.14,Raw data
+V1_3,52831,98.14,Raw data
+V1_98,52831,98.14,Raw data
+V3_me,53795,99.93,Raw data
+V3_me_other,53831,100,Raw data
+V3_baby,53833,100,Raw data
+V3_baby_other,53833,100,Raw data
+V3_child2_4,53833,100,Raw data
+V3_child2_4_other,53833,100,Raw data
+V3_child5_17,53833,100,Raw data
+V3_child5_17_other,53833,100,Raw data
+V3_adult18,53787,99.91,Raw data
+V3_adult18_other,53824,99.98,Raw data
+V4_8,52831,98.14,Raw data
+V4_9,52831,98.14,Raw data
+V4_6,52831,98.14,Raw data
+V4_98,52831,98.14,Raw data
+V4_other,53833,100,Raw data
+SC_1_1,52831,98.14,Raw data
+SC_1_2,52831,98.14,Raw data
+SC_1_3,52831,98.14,Raw data
+SC_1_4,52831,98.14,Raw data
+SC_1_5,52831,98.14,Raw data
+SC_1_6,52831,98.14,Raw data
+SC_1_7,52831,98.14,Raw data
+SC_1_99,52831,98.14,Raw data
+SC_2,53450,99.29,Raw data
+SC_3_1,53450,99.29,Raw data
+SC_3_2,53450,99.29,Raw data
+SC_3_3,53450,99.29,Raw data
+SC_3_4,53450,99.29,Raw data
+SC_3_5,53450,99.29,Raw data
+SC_3_6,53450,99.29,Raw data
+SC_3_7,53450,99.29,Raw data
+SC_3_99,53450,99.29,Raw data
+vac_boost_1,46633,86.63,Raw data
+vac_boost_2,50202,93.26,Raw data
+vac12_booster_1,50202,93.26,Raw data
+vac12_booster_2,50202,93.26,Raw data
+vac12_booster_3,50202,93.26,Raw data
+vac12_booster_4,50202,93.26,Raw data
+vac12_booster_5,50202,93.26,Raw data
+vac12_booster_6,50202,93.26,Raw data
+vac12_booster_7,50202,93.26,Raw data
+vac12_booster_8,50202,93.26,Raw data
+vac12_booster_9,50202,93.26,Raw data
+vac12_booster_10,50202,93.26,Raw data
+vac12_booster_96,50202,93.26,Raw data
+vac12_booster_other,53332,99.07,Raw data
+vac_man_1,45998,85.45,Raw data
+vac_man_2,45998,85.45,Raw data
+vac_man_3,45998,85.45,Raw data
+vac_man_4,45998,85.45,Raw data
+vac_man_5,45998,85.45,Raw data
+vac_man_6,45998,85.45,Raw data
+vac_man_7,45998,85.45,Raw data
+vac_man_96,45998,85.45,Raw data
+vac_man_99,45998,85.45,Raw data
+q_other,53604,99.57,Raw data
+household_children_resp,48997,91.02,Raw data
+had_covid,52843,98.16,Raw data
+vac_boost_beyond,50874,94.5,Raw data
+future_1,48997,91.02,Raw data
+future_2,48997,91.02,Raw data
+had_covid_2,50079,93.03,Raw data
+long_covid,53269,98.95,Raw data
+future_3,52827,98.13,Raw data
+RecordNo,0,0,After removing high-missing variables
+endtime,0,0,After removing high-missing variables
+qweek,0,0,After removing high-missing variables
+i2_health,2002,3.72,After removing high-missing variables
+i9_health,1001,1.86,After removing high-missing variables
+i11_health,1001,1.86,After removing high-missing variables
+i12_health_1,0,0,After removing high-missing variables
+i12_health_2,1006,1.87,After removing high-missing variables
+i12_health_3,0,0,After removing high-missing variables
+i12_health_4,0,0,After removing high-missing variables
+i12_health_5,0,0,After removing high-missing variables
+i12_health_6,0,0,After removing high-missing variables
+i12_health_7,0,0,After removing high-missing variables
+i12_health_8,0,0,After removing high-missing variables
+i12_health_11,1006,1.87,After removing high-missing variables
+i12_health_12,0,0,After removing high-missing variables
+i12_health_13,0,0,After removing high-missing variables
+i12_health_14,0,0,After removing high-missing variables
+i12_health_15,0,0,After removing high-missing variables
+i12_health_16,0,0,After removing high-missing variables
+d1_health_1,9007,16.73,After removing high-missing variables
+d1_health_2,9007,16.73,After removing high-missing variables
+d1_health_3,9007,16.73,After removing high-missing variables
+d1_health_4,9007,16.73,After removing high-missing variables
+d1_health_5,9007,16.73,After removing high-missing variables
+d1_health_6,9007,16.73,After removing high-missing variables
+d1_health_7,9007,16.73,After removing high-missing variables
+d1_health_8,9007,16.73,After removing high-missing variables
+d1_health_9,9007,16.73,After removing high-missing variables
+d1_health_10,9007,16.73,After removing high-missing variables
+d1_health_11,9007,16.73,After removing high-missing variables
+d1_health_12,9007,16.73,After removing high-missing variables
+d1_health_13,9007,16.73,After removing high-missing variables
+d1_health_98,9007,16.73,After removing high-missing variables
+d1_health_99,9007,16.73,After removing high-missing variables
+weight,0,0,After removing high-missing variables
+age,0,0,After removing high-missing variables
+gender,0,0,After removing high-missing variables
+state,0,0,After removing high-missing variables
+household_size,0,0,After removing high-missing variables
+employment_status,0,0,After removing high-missing variables
+WCRex2,2981,5.54,After removing high-missing variables
+cantril_ladder,3985,7.4,After removing high-missing variables
+PHQ4_1,10752,19.97,After removing high-missing variables
+PHQ4_2,10781,20.03,After removing high-missing variables
+PHQ4_3,10756,19.98,After removing high-missing variables
+PHQ4_4,10761,19.99,After removing high-missing variables
+WCRex1,7014,13.03,After removing high-missing variables
+i12_health_22,9023,16.76,After removing high-missing variables
+i12_health_23,10029,18.63,After removing high-missing variables
+i12_health_25,9023,16.76,After removing high-missing variables
+r1_1,9023,16.76,After removing high-missing variables
+r1_2,9023,16.76,After removing high-missing variables
+RecordNo,0,0,After filling medical missing values
+endtime,0,0,After filling medical missing values
+qweek,0,0,After filling medical missing values
+i2_health,2002,3.72,After filling medical missing values
+i9_health,1001,1.86,After filling medical missing values
+i11_health,1001,1.86,After filling medical missing values
+i12_health_1,0,0,After filling medical missing values
+i12_health_2,1006,1.87,After filling medical missing values
+i12_health_3,0,0,After filling medical missing values
+i12_health_4,0,0,After filling medical missing values
+i12_health_5,0,0,After filling medical missing values
+i12_health_6,0,0,After filling medical missing values
+i12_health_7,0,0,After filling medical missing values
+i12_health_8,0,0,After filling medical missing values
+i12_health_11,1006,1.87,After filling medical missing values
+i12_health_12,0,0,After filling medical missing values
+i12_health_13,0,0,After filling medical missing values
+i12_health_14,0,0,After filling medical missing values
+i12_health_15,0,0,After filling medical missing values
+i12_health_16,0,0,After filling medical missing values
+d1_health_1,2593,4.82,After filling medical missing values
+d1_health_2,2593,4.82,After filling medical missing values
+d1_health_3,2593,4.82,After filling medical missing values
+d1_health_4,2593,4.82,After filling medical missing values
+d1_health_5,2593,4.82,After filling medical missing values
+d1_health_6,2593,4.82,After filling medical missing values
+d1_health_7,2593,4.82,After filling medical missing values
+d1_health_8,2593,4.82,After filling medical missing values
+d1_health_9,2593,4.82,After filling medical missing values
+d1_health_10,2593,4.82,After filling medical missing values
+d1_health_11,2593,4.82,After filling medical missing values
+d1_health_12,2593,4.82,After filling medical missing values
+d1_health_13,2593,4.82,After filling medical missing values
+d1_health_98,2593,4.82,After filling medical missing values
+d1_health_99,2593,4.82,After filling medical missing values
+weight,0,0,After filling medical missing values
+age,0,0,After filling medical missing values
+gender,0,0,After filling medical missing values
+state,0,0,After filling medical missing values
+household_size,0,0,After filling medical missing values
+employment_status,0,0,After filling medical missing values
+WCRex2,2981,5.54,After filling medical missing values
+cantril_ladder,3985,7.4,After filling medical missing values
+PHQ4_1,4373,8.12,After filling medical missing values
+PHQ4_2,4395,8.16,After filling medical missing values
+PHQ4_3,4371,8.12,After filling medical missing values
+PHQ4_4,4376,8.13,After filling medical missing values
+WCRex1,7014,13.03,After filling medical missing values
+i12_health_22,9023,16.76,After filling medical missing values
+i12_health_23,10029,18.63,After filling medical missing values
+i12_health_25,9023,16.76,After filling medical missing values
+r1_1,9023,16.76,After filling medical missing values
+r1_2,9023,16.76,After filling medical missing values
+RecordNo,0,0,After complete-case removal
+endtime,0,0,After complete-case removal
+qweek,0,0,After complete-case removal
+i2_health,0,0,After complete-case removal
+i9_health,0,0,After complete-case removal
+i11_health,0,0,After complete-case removal
+i12_health_1,0,0,After complete-case removal
+i12_health_2,0,0,After complete-case removal
+i12_health_3,0,0,After complete-case removal
+i12_health_4,0,0,After complete-case removal
+i12_health_5,0,0,After complete-case removal
+i12_health_6,0,0,After complete-case removal
+i12_health_7,0,0,After complete-case removal
+i12_health_8,0,0,After complete-case removal
+i12_health_11,0,0,After complete-case removal
+i12_health_12,0,0,After complete-case removal
+i12_health_13,0,0,After complete-case removal
+i12_health_14,0,0,After complete-case removal
+i12_health_15,0,0,After complete-case removal
+i12_health_16,0,0,After complete-case removal
+d1_health_1,0,0,After complete-case removal
+d1_health_2,0,0,After complete-case removal
+d1_health_3,0,0,After complete-case removal
+d1_health_4,0,0,After complete-case removal
+d1_health_5,0,0,After complete-case removal
+d1_health_6,0,0,After complete-case removal
+d1_health_7,0,0,After complete-case removal
+d1_health_8,0,0,After complete-case removal
+d1_health_9,0,0,After complete-case removal
+d1_health_10,0,0,After complete-case removal
+d1_health_11,0,0,After complete-case removal
+d1_health_12,0,0,After complete-case removal
+d1_health_13,0,0,After complete-case removal
+d1_health_98,0,0,After complete-case removal
+d1_health_99,0,0,After complete-case removal
+weight,0,0,After complete-case removal
+age,0,0,After complete-case removal
+gender,0,0,After complete-case removal
+state,0,0,After complete-case removal
+household_size,0,0,After complete-case removal
+employment_status,0,0,After complete-case removal
+WCRex2,0,0,After complete-case removal
+cantril_ladder,0,0,After complete-case removal
+PHQ4_1,0,0,After complete-case removal
+PHQ4_2,0,0,After complete-case removal
+PHQ4_3,0,0,After complete-case removal
+PHQ4_4,0,0,After complete-case removal
+WCRex1,0,0,After complete-case removal
+i12_health_22,0,0,After complete-case removal
+i12_health_23,0,0,After complete-case removal
+i12_health_25,0,0,After complete-case removal
+r1_1,0,0,After complete-case removal
+r1_2,0,0,After complete-case removal
+RecordNo,0,0,After creating behaviour outcomes
+endtime,0,0,After creating behaviour outcomes
+qweek,0,0,After creating behaviour outcomes
+i2_health,0,0,After creating behaviour outcomes
+i9_health,0,0,After creating behaviour outcomes
+i11_health,0,0,After creating behaviour outcomes
+i12_health_1,0,0,After creating behaviour outcomes
+i12_health_2,0,0,After creating behaviour outcomes
+i12_health_3,0,0,After creating behaviour outcomes
+i12_health_4,0,0,After creating behaviour outcomes
+i12_health_5,0,0,After creating behaviour outcomes
+i12_health_6,0,0,After creating behaviour outcomes
+i12_health_7,0,0,After creating behaviour outcomes
+i12_health_8,0,0,After creating behaviour outcomes
+i12_health_11,0,0,After creating behaviour outcomes
+i12_health_12,0,0,After creating behaviour outcomes
+i12_health_13,0,0,After creating behaviour outcomes
+i12_health_14,0,0,After creating behaviour outcomes
+i12_health_15,0,0,After creating behaviour outcomes
+i12_health_16,0,0,After creating behaviour outcomes
+d1_health_1,0,0,After creating behaviour outcomes
+d1_health_2,0,0,After creating behaviour outcomes
+d1_health_3,0,0,After creating behaviour outcomes
+d1_health_4,0,0,After creating behaviour outcomes
+d1_health_5,0,0,After creating behaviour outcomes
+d1_health_6,0,0,After creating behaviour outcomes
+d1_health_7,0,0,After creating behaviour outcomes
+d1_health_8,0,0,After creating behaviour outcomes
+d1_health_9,0,0,After creating behaviour outcomes
+d1_health_10,0,0,After creating behaviour outcomes
+d1_health_11,0,0,After creating behaviour outcomes
+d1_health_12,0,0,After creating behaviour outcomes
+d1_health_13,0,0,After creating behaviour outcomes
+d1_health_98,0,0,After creating behaviour outcomes
+d1_health_99,0,0,After creating behaviour outcomes
+weight,0,0,After creating behaviour outcomes
+age,0,0,After creating behaviour outcomes
+gender,0,0,After creating behaviour outcomes
+state,0,0,After creating behaviour outcomes
+household_size,0,0,After creating behaviour outcomes
+employment_status,0,0,After creating behaviour outcomes
+WCRex2,0,0,After creating behaviour outcomes
+cantril_ladder,0,0,After creating behaviour outcomes
+PHQ4_1,0,0,After creating behaviour outcomes
+PHQ4_2,0,0,After creating behaviour outcomes
+PHQ4_3,0,0,After creating behaviour outcomes
+PHQ4_4,0,0,After creating behaviour outcomes
+WCRex1,0,0,After creating behaviour outcomes
+i12_health_22,0,0,After creating behaviour outcomes
+i12_health_23,0,0,After creating behaviour outcomes
+i12_health_25,0,0,After creating behaviour outcomes
+r1_1,0,0,After creating behaviour outcomes
+r1_2,0,0,After creating behaviour outcomes
+face_mask_behaviour_scale,0,0,After creating behaviour outcomes
+face_mask_behaviour_binary,0,0,After creating behaviour outcomes
+protective_behaviour_scale,0,0,After creating behaviour outcomes
+protective_behaviour_binary,0,0,After creating behaviour outcomes
+protective_behaviour_nomask_scale,0,0,After creating behaviour outcomes
+RecordNo,0,0,After combining comorbidities
+endtime,0,0,After combining comorbidities
+qweek,0,0,After combining comorbidities
+i2_health,0,0,After combining comorbidities
+i9_health,0,0,After combining comorbidities
+i11_health,0,0,After combining comorbidities
+i12_health_1,0,0,After combining comorbidities
+i12_health_2,0,0,After combining comorbidities
+i12_health_3,0,0,After combining comorbidities
+i12_health_4,0,0,After combining comorbidities
+i12_health_5,0,0,After combining comorbidities
+i12_health_6,0,0,After combining comorbidities
+i12_health_7,0,0,After combining comorbidities
+i12_health_8,0,0,After combining comorbidities
+i12_health_11,0,0,After combining comorbidities
+i12_health_12,0,0,After combining comorbidities
+i12_health_13,0,0,After combining comorbidities
+i12_health_14,0,0,After combining comorbidities
+i12_health_15,0,0,After combining comorbidities
+i12_health_16,0,0,After combining comorbidities
+weight,0,0,After combining comorbidities
+age,0,0,After combining comorbidities
+gender,0,0,After combining comorbidities
+state,0,0,After combining comorbidities
+household_size,0,0,After combining comorbidities
+employment_status,0,0,After combining comorbidities
+WCRex2,0,0,After combining comorbidities
+cantril_ladder,0,0,After combining comorbidities
+PHQ4_1,0,0,After combining comorbidities
+PHQ4_2,0,0,After combining comorbidities
+PHQ4_3,0,0,After combining comorbidities
+PHQ4_4,0,0,After combining comorbidities
+WCRex1,0,0,After combining comorbidities
+i12_health_22,0,0,After combining comorbidities
+i12_health_23,0,0,After combining comorbidities
+i12_health_25,0,0,After combining comorbidities
+r1_1,0,0,After combining comorbidities
+r1_2,0,0,After combining comorbidities
+face_mask_behaviour_scale,0,0,After combining comorbidities
+face_mask_behaviour_binary,0,0,After combining comorbidities
+protective_behaviour_scale,0,0,After combining comorbidities
+protective_behaviour_binary,0,0,After combining comorbidities
+protective_behaviour_nomask_scale,0,0,After combining comorbidities
+d1_comorbidities,0,0,After combining comorbidities
+RecordNo,0,0,After creating week number
+endtime,0,0,After creating week number
+qweek,0,0,After creating week number
+i2_health,0,0,After creating week number
+i9_health,0,0,After creating week number
+i11_health,0,0,After creating week number
+i12_health_1,0,0,After creating week number
+i12_health_2,0,0,After creating week number
+i12_health_3,0,0,After creating week number
+i12_health_4,0,0,After creating week number
+i12_health_5,0,0,After creating week number
+i12_health_6,0,0,After creating week number
+i12_health_7,0,0,After creating week number
+i12_health_8,0,0,After creating week number
+i12_health_11,0,0,After creating week number
+i12_health_12,0,0,After creating week number
+i12_health_13,0,0,After creating week number
+i12_health_14,0,0,After creating week number
+i12_health_15,0,0,After creating week number
+i12_health_16,0,0,After creating week number
+weight,0,0,After creating week number
+age,0,0,After creating week number
+gender,0,0,After creating week number
+state,0,0,After creating week number
+household_size,0,0,After creating week number
+employment_status,0,0,After creating week number
+WCRex2,0,0,After creating week number
+cantril_ladder,0,0,After creating week number
+PHQ4_1,0,0,After creating week number
+PHQ4_2,0,0,After creating week number
+PHQ4_3,0,0,After creating week number
+PHQ4_4,0,0,After creating week number
+WCRex1,0,0,After creating week number
+i12_health_22,0,0,After creating week number
+i12_health_23,0,0,After creating week number
+i12_health_25,0,0,After creating week number
+r1_1,0,0,After creating week number
+r1_2,0,0,After creating week number
+face_mask_behaviour_scale,0,0,After creating week number
+face_mask_behaviour_binary,0,0,After creating week number
+protective_behaviour_scale,0,0,After creating week number
+protective_behaviour_binary,0,0,After creating week number
+protective_behaviour_nomask_scale,0,0,After creating week number
+d1_comorbidities,0,0,After creating week number
+week_number,0,0,After creating week number
+RecordNo,0,0,After household conversion
+endtime,0,0,After household conversion
+qweek,0,0,After household conversion
+i2_health,0,0,After household conversion
+i9_health,0,0,After household conversion
+i11_health,0,0,After household conversion
+i12_health_1,0,0,After household conversion
+i12_health_2,0,0,After household conversion
+i12_health_3,0,0,After household conversion
+i12_health_4,0,0,After household conversion
+i12_health_5,0,0,After household conversion
+i12_health_6,0,0,After household conversion
+i12_health_7,0,0,After household conversion
+i12_health_8,0,0,After household conversion
+i12_health_11,0,0,After household conversion
+i12_health_12,0,0,After household conversion
+i12_health_13,0,0,After household conversion
+i12_health_14,0,0,After household conversion
+i12_health_15,0,0,After household conversion
+i12_health_16,0,0,After household conversion
+weight,0,0,After household conversion
+age,0,0,After household conversion
+gender,0,0,After household conversion
+state,0,0,After household conversion
+household_size,989,2.4,After household conversion
+employment_status,0,0,After household conversion
+WCRex2,0,0,After household conversion
+cantril_ladder,0,0,After household conversion
+PHQ4_1,0,0,After household conversion
+PHQ4_2,0,0,After household conversion
+PHQ4_3,0,0,After household conversion
+PHQ4_4,0,0,After household conversion
+WCRex1,0,0,After household conversion
+i12_health_22,0,0,After household conversion
+i12_health_23,0,0,After household conversion
+i12_health_25,0,0,After household conversion
+r1_1,0,0,After household conversion
+r1_2,0,0,After household conversion
+face_mask_behaviour_scale,0,0,After household conversion
+face_mask_behaviour_binary,0,0,After household conversion
+protective_behaviour_scale,0,0,After household conversion
+protective_behaviour_binary,0,0,After household conversion
+protective_behaviour_nomask_scale,0,0,After household conversion
+d1_comorbidities,0,0,After household conversion
+week_number,0,0,After household conversion
+RecordNo,0,0,After removing induced missing rows
+endtime,0,0,After removing induced missing rows
+qweek,0,0,After removing induced missing rows
+i2_health,0,0,After removing induced missing rows
+i9_health,0,0,After removing induced missing rows
+i11_health,0,0,After removing induced missing rows
+i12_health_1,0,0,After removing induced missing rows
+i12_health_2,0,0,After removing induced missing rows
+i12_health_3,0,0,After removing induced missing rows
+i12_health_4,0,0,After removing induced missing rows
+i12_health_5,0,0,After removing induced missing rows
+i12_health_6,0,0,After removing induced missing rows
+i12_health_7,0,0,After removing induced missing rows
+i12_health_8,0,0,After removing induced missing rows
+i12_health_11,0,0,After removing induced missing rows
+i12_health_12,0,0,After removing induced missing rows
+i12_health_13,0,0,After removing induced missing rows
+i12_health_14,0,0,After removing induced missing rows
+i12_health_15,0,0,After removing induced missing rows
+i12_health_16,0,0,After removing induced missing rows
+weight,0,0,After removing induced missing rows
+age,0,0,After removing induced missing rows
+gender,0,0,After removing induced missing rows
+state,0,0,After removing induced missing rows
+household_size,0,0,After removing induced missing rows
+employment_status,0,0,After removing induced missing rows
+WCRex2,0,0,After removing induced missing rows
+cantril_ladder,0,0,After removing induced missing rows
+PHQ4_1,0,0,After removing induced missing rows
+PHQ4_2,0,0,After removing induced missing rows
+PHQ4_3,0,0,After removing induced missing rows
+PHQ4_4,0,0,After removing induced missing rows
+WCRex1,0,0,After removing induced missing rows
+i12_health_22,0,0,After removing induced missing rows
+i12_health_23,0,0,After removing induced missing rows
+i12_health_25,0,0,After removing induced missing rows
+r1_1,0,0,After removing induced missing rows
+r1_2,0,0,After removing induced missing rows
+face_mask_behaviour_scale,0,0,After removing induced missing rows
+face_mask_behaviour_binary,0,0,After removing induced missing rows
+protective_behaviour_scale,0,0,After removing induced missing rows
+protective_behaviour_binary,0,0,After removing induced missing rows
+protective_behaviour_nomask_scale,0,0,After removing induced missing rows
+d1_comorbidities,0,0,After removing induced missing rows
+week_number,0,0,After removing induced missing rows
+RecordNo,0,0,Final cleaned data
+endtime,0,0,Final cleaned data
+i2_health,0,0,Final cleaned data
+i9_health,0,0,Final cleaned data
+i11_health,0,0,Final cleaned data
+age,0,0,Final cleaned data
+gender,0,0,Final cleaned data
+state,0,0,Final cleaned data
+household_size,0,0,Final cleaned data
+employment_status,0,0,Final cleaned data
+WCRex2,0,0,Final cleaned data
+cantril_ladder,0,0,Final cleaned data
+PHQ4_1,0,0,Final cleaned data
+PHQ4_2,0,0,Final cleaned data
+PHQ4_3,0,0,Final cleaned data
+PHQ4_4,0,0,Final cleaned data
+WCRex1,0,0,Final cleaned data
+r1_1,0,0,Final cleaned data
+r1_2,0,0,Final cleaned data
+face_mask_behaviour_scale,0,0,Final cleaned data
+face_mask_behaviour_binary,0,0,Final cleaned data
+protective_behaviour_scale,0,0,Final cleaned data
+protective_behaviour_binary,0,0,Final cleaned data
+protective_behaviour_nomask_scale,0,0,Final cleaned data
+d1_comorbidities,0,0,Final cleaned data
+week_number,0,0,Final cleaned data

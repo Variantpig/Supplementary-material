@@ -1,0 +1,7 @@
+parameter,importance
+max_depth,4.011654746040808e-4
+max_features_mode,2.9359368795026762e-5
+splitrule,2.229195021707564e-5
+num_trees,-1.2520449533423016e-6
+class_weight_mode,-4.794552819197384e-6
+min_node_size,-5.091868296666191e-6

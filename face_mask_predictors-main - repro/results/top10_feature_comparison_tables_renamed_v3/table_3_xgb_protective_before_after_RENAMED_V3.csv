@@ -1,0 +1,11 @@
+feature,median_before,se_before,category_before,median_after,se_after,category_after,in_before_top10,in_after_top10,plot_category
+Non-Household Contacts,0.17535740995923366,1.287632056132504e-4,"Health, mental health and wellbeing",0.13630056349650643,1.559219932847235e-4,"Health, mental health and wellbeing",TRUE,TRUE,"Health, mental health and wellbeing"
+Week Number,0.0967250328095903,8.822729164210563e-5,Time,0.161282410165493,1.4498143014818378e-4,Time,TRUE,TRUE,Time
+Perceived Severity,0.11376317717500921,1.0968126256586115e-4,Perception of illness threat,0.09634170618592171,1.4791145217115612e-4,Perception of illness threat,TRUE,TRUE,Perception of illness threat
+Age,0.10784536465479229,9.724811077769775e-5,Demographics,0.0814118051450766,7.801799071777322e-5,Demographics,TRUE,TRUE,Demographics
+Perceived Susceptibility,0.05080958335048505,5.9537126510921445e-5,Perception of illness threat,0.038485850353329173,5.343219531867503e-5,Perception of illness threat,TRUE,TRUE,Perception of illness threat
+Very Willing To Isolate,0.02109783224975392,4.340978437227169e-5,Self protective behaviours,0.04806872463620453,1.0971098152759919e-4,Self protective behaviours,TRUE,TRUE,Self protective behaviours
+Cantril Ladder,0.0452366551333507,4.7863448040804475e-5,"Health, mental health and wellbeing",0.03282596635588206,4.678442860911478e-5,"Health, mental health and wellbeing",TRUE,TRUE,"Health, mental health and wellbeing"
+Household Size,0.034768935748887966,5.5044089822637694e-5,Demographics,0.02705732757807508,5.454073250796374e-5,Demographics,TRUE,TRUE,Demographics
+Isolate If Unwell(YES),0.022326402656587127,5.3617117682379004e-5,Self protective behaviours,0.026976076621513204,7.378854387535998e-5,Self protective behaviours,TRUE,TRUE,Self protective behaviours
+Gender(Male),0.016918916920195072,3.514392637186621e-5,Demographics,0.01145060948829771,3.0624347038199234e-5,Demographics,TRUE,TRUE,Demographics

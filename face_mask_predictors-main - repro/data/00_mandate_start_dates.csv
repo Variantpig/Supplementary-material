@@ -1,0 +1,9 @@
+RegionName,RegionCode,Date,H6M_Facial Coverings,rolling_facial_coverings,region_label
+Victoria,AUS_VIC,2020-07-21,3,3,Victoria (AUS_VIC)
+Queensland,AUS_QLD,2021-01-17,4,3.142857142857143,Queensland (AUS_QLD)
+Western Australia,AUS_WA,2021-02-08,3,3,Western Australia (AUS_WA)
+New South Wales,AUS_NSW,2021-07-09,3,3,New South Wales (AUS_NSW)
+South Australia,AUS_SA,2021-07-26,4,3,South Australia (AUS_SA)
+Australian Capital Territory,AUS_ACT,2021-08-18,4,3,Australian Capital Territory (AUS_ACT)
+Tasmania,AUS_TAS,2021-10-21,4,3,Tasmania (AUS_TAS)
+Northern Territory,AUS_NT,2021-11-21,3,3,Northern Territory (AUS_NT)

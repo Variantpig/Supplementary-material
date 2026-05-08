@@ -1,0 +1,9 @@
+{
+  "number": 51,
+  "value": 0.8867,
+  "max_depth": 14,
+  "min_node_size": 37,
+  "max_features_mode": "all",
+  "std_err": 0.002,
+  "threshold": 0.8847
+}

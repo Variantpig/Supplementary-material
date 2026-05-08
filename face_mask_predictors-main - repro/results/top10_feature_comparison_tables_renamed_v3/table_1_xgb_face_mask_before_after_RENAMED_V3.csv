@@ -1,0 +1,13 @@
+feature,median_before,se_before,category_before,median_after,se_after,category_after,in_before_top10,in_after_top10,plot_category
+Protective Behaviour,0.17594094952547729,2.040243751186727e-4,Self protective behaviours,0.19695422746374364,1.8214445874671604e-4,Self protective behaviours,TRUE,TRUE,Self protective behaviours
+Week Number,0.1004059446299661,1.2276943074928943e-4,Time,0.19608996058658607,1.4839353804078947e-4,Time,TRUE,TRUE,Time
+Age,0.11540292529417084,1.3172954011328352e-4,Demographics,0.06535801286985365,8.65163959406966e-5,Demographics,TRUE,TRUE,Demographics
+Non-Household Contacts,0.06138483742920703,8.414625865344503e-5,"Health, mental health and wellbeing",0.04405781781518853,7.835900167181538e-5,"Health, mental health and wellbeing",TRUE,TRUE,"Health, mental health and wellbeing"
+Perceived Severity,0.05951996859568928,8.86498893479152e-5,Perception of illness threat,0.0315239238199988,5.874463240475901e-5,Perception of illness threat,TRUE,TRUE,Perception of illness threat
+Cantril Ladder,0.045642079739807384,7.772599851882278e-5,"Health, mental health and wellbeing",0.02781335711464794,6.197055337774092e-5,"Health, mental health and wellbeing",TRUE,TRUE,"Health, mental health and wellbeing"
+Perceived Susceptibility,0.04270985889771136,9.164969980162431e-5,Perception of illness threat,0.029498590573018804,5.564046719387764e-5,Perception of illness threat,TRUE,TRUE,Perception of illness threat
+Household Size,0.03088544885862287,6.16447271699251e-5,Demographics,0.023945324212362513,5.3512289839041804e-5,Demographics,TRUE,TRUE,Demographics
+Very Willing To Isolate,0,0,NA,0.026127084102290858,5.899846838826361e-5,Self protective behaviours,FALSE,TRUE,Self protective behaviours
+Isolate If Unwell(YES),0,0,NA,0.01248925486861974,5.0422940922943434e-5,Self protective behaviours,FALSE,TRUE,Self protective behaviours
+Comorbidity(YES),0.0119977006807808,4.432195668289683e-5,"Health, mental health and wellbeing",0,0,NA,TRUE,FALSE,"Health, mental health and wellbeing"
+Gender(Male),0.01189718230890853,3.710236592782105e-5,Demographics,0,0,NA,TRUE,FALSE,Demographics

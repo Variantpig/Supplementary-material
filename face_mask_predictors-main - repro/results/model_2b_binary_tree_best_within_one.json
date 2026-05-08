@@ -1,0 +1,9 @@
+{
+  "number": 6,
+  "value": 0.2325,
+  "tree_depth": 12,
+  "min_n": 9,
+  "cost_complexity": 0.0001,
+  "std_err": 0.0053,
+  "threshold": 0.231
+}

@@ -1,0 +1,13 @@
+feature,median_before,se_before,category_before,median_after,se_after,category_after,in_before_top10,in_after_top10,plot_category
+Protective Behaviour,821.0501182335405,0.9051434120271229,Self protective behaviours,2190.3424864293515,2.2152276220166818,Self protective behaviours,TRUE,TRUE,Self protective behaviours
+Week Number,478.35595945784354,0.5335638558778095,Time,2008.1789308581572,1.9776265719035966,Time,TRUE,TRUE,Time
+Age,493.4561819037684,0.5179868540991588,Demographics,631.9247892187452,1.0283726194498561,Demographics,TRUE,TRUE,Demographics
+Non-Household Contacts,415.1364347147735,0.42561523420268643,"Health, mental health and wellbeing",420.7668791728111,0.8793966658311587,"Health, mental health and wellbeing",TRUE,TRUE,"Health, mental health and wellbeing"
+Perceived Severity,402.4382930867772,0.554387593650629,Perception of illness threat,247.45796753411616,0.6307590451845743,Perception of illness threat,TRUE,TRUE,Perception of illness threat
+Perceived Susceptibility,296.6051555253123,0.3550126876283575,Perception of illness threat,269.4294365725776,0.6492334016071943,Perception of illness threat,TRUE,TRUE,Perception of illness threat
+Cantril Ladder,284.53628397826037,0.2750669297585233,"Health, mental health and wellbeing",274.8007580334921,0.6823645343480784,"Health, mental health and wellbeing",TRUE,TRUE,"Health, mental health and wellbeing"
+Very Willing To Isolate,0,0,NA,281.5189176928834,0.9458965953623264,Self protective behaviours,FALSE,TRUE,Self protective behaviours
+Household Size,221.4839719983426,0.21865060678940396,Demographics,248.1944580077606,0.5708130298357071,Demographics,TRUE,TRUE,Demographics
+Isolate If Unwell(YES),0,0,NA,92.75916086821854,0.621874761659501,Self protective behaviours,FALSE,TRUE,Self protective behaviours
+Gender(Male),86.98121431298884,0.10885524626861692,Demographics,0,0,NA,TRUE,FALSE,Demographics
+Comorbidity(YES),84.6990626920201,0.1884430602743598,"Health, mental health and wellbeing",0,0,NA,TRUE,FALSE,"Health, mental health and wellbeing"

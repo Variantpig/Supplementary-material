@@ -1,0 +1,13 @@
+{
+  "number": 9,
+  "value": 0.8476,
+  "params": {
+    "learning_rate": 0.0126,
+    "max_depth": 9,
+    "subsample": 0.6253,
+    "colsample_bytree": 0.6212
+  },
+  "user_attrs": {
+    "std_err": 0.0022
+  }
+}
